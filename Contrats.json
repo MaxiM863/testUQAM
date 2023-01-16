@@ -1,0 +1,266 @@
+{
+	"Contrat":
+	[
+		{
+			"Catégorie de soin": 
+			[
+				{
+					"nom":"Massothérapie",
+					"code":"0",
+					"A":
+					[
+						{
+							"valeure" : "25",
+							"max": "0"
+						}
+					],
+					"B":
+					[
+						{
+							"valeure" : "50",
+							"max": "40"
+						}
+					],
+					"C":
+					[
+						{
+							"valeure" : "90",
+							"max": "0"
+						}
+					],
+					"D":
+					[
+						{
+							"valeure" : "100",
+							"max": "85"
+						}
+					]
+				},
+				{
+					"nom":"Ostéopathie",
+					"code":"100",
+					"A":
+					[
+						{
+							"valeure" : "25",
+							"max": "0"
+						}
+					],
+					"B":
+					[
+						{
+							"valeure" : "50",
+							"max": "50"
+						}
+					],
+					"C":
+					[
+						{
+							"valeure" : "90",
+							"max": "0"
+						}
+					],
+					"D":
+					[
+						{
+							"valeure" : "100",
+							"max": "75"
+						}
+					]
+				},
+				{
+					"nom":"Psychologie individuelle",
+					"code":"200",
+					"A":
+					[
+						{
+							"valeure" : "25",
+							"max": "0"
+						}
+					],
+					"B":
+					[
+						{
+							"valeure" : "100",
+							"max": "70"
+						}
+					],
+					"C":
+					[
+						{
+							"valeure" : "90",
+							"max": "0"
+						}
+					],
+					"D":
+					[
+						{
+							"valeure" : "100",
+							"max": "100"
+						}
+					]
+				},
+				{
+					"nom":"Soins dentaires",
+					"code":"300",
+					"A":
+					[
+						{
+							"valeure" : "0",
+							"max": "0"
+						}
+					],
+					"B":
+					[
+						{
+							"valeure" : "50",
+							"max": "0"
+						}
+					],
+					"C":
+					[
+						{
+							"valeure" : "90",
+							"max": "0"
+						}
+					],
+					"D":
+					[
+						{
+							"valeure" : "100",
+							"max": "0"
+						}
+					]
+				},
+				{
+					"nom":"Naturopathie, acuponcture",
+					"code":"400",
+					"A":
+					[
+						{
+							"valeure" : "0",
+							"max": "0"
+						}
+					],
+					"B":
+					[
+						{
+							"valeure" : "0",
+							"max": "0"
+						}
+					],
+					"C":
+					[
+						{
+							"valeure" : "90",
+							"max": "0"
+						}
+					],
+					"D":
+					[
+						{
+							"valeure" : "100",
+							"max": "65"
+						}
+					]
+				},
+				{
+					"nom":"Chiropratie",
+					"code":"500",
+					"A":
+					[
+						{
+							"valeure" : "25",
+							"max": "0"
+						}
+					],
+					"B":
+					[
+						{
+							"valeure" : "50",
+							"max": "50"
+						}
+					],
+					"C":
+					[
+						{
+							"valeure" : "90",
+							"max": "0"
+						}
+					],
+					"D":
+					[
+						{
+							"valeure" : "100",
+							"max": "75"
+						}
+					]
+				},
+				{
+					"nom":"Physiothérapie",
+					"code":"600",
+					"A":
+					[
+						{
+							"valeure" : "40",
+							"max": "0"
+						}
+					],
+					"B":
+					[
+						{
+							"valeure" : "100",
+							"max": "0"
+						}
+					],
+					"C":
+					[
+						{
+							"valeure" : "90",
+							"max": "0"
+						}
+					],
+					"D":
+					[
+						{
+							"valeure" : "100",
+							"max": "100"
+						}
+					]
+				},
+				{
+					"nom":"Orthophonie, ergothérapie",
+					"code":"700",
+					"A":
+					[
+						{
+							"valeure" : "0",
+							"max": "0"
+						}
+					],
+					"B":
+					[
+						{
+							"valeure" : "70",
+							"max": "0"
+						}
+					],
+					"C":
+					[
+						{
+							"valeure" : "90",
+							"max": "0"
+						}
+					],
+					"D":
+					[
+						{
+							"valeure" : "100",
+							"max": "90"
+						}
+					]
+				}
+			]				
+		}
+	]
+}
